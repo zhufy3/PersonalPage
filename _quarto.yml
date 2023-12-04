@@ -6,11 +6,11 @@ website:
   navbar:
     left:
       - text: Work Ex
-        href: profile.qmd
+        href: profile/profile.qmd
       - text: Project
-        href: Project.qmd
+        href: project/Project.qmd
       - text: Resume
-        href: Resume.qmd
+        href: resume/Resume.qmd
 
 
 format:
