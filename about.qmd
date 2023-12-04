@@ -1,9 +1,22 @@
 ---
-title: "About"
+title: "Fang Yuan ZHU"
+image: photo.jpg
+about: 
+  template: jolla
+  image-width: 20em
+  image-shape: round
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/zhu-fangyuan/
+    - icon: github
+      text: GitHub
+      href: https://github.com/zhufy3
+    - icon: envelope
+      text: Contact me
+      href: fyzhu.2022@mitb.smu.edu.sg
 ---
 
-About this site
+Hi! I'm Fang Yuan.
 
-```{r}
-1 + 1
-```
+# Education

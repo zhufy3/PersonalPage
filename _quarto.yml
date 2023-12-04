@@ -2,8 +2,12 @@ project:
   type: website
 
 website:
-  title: "PersonalPage"
+  #logo: 
+  title: "Fang Yuan Zhu"
   navbar:
+    pinned: true
+    #background: success
+    foreground: primary
     left:
       - text: Work Ex
         href: profile/profile.qmd
@@ -11,15 +15,24 @@ website:
         href: project/Project.qmd
       - text: Resume
         href: resume/Resume.qmd
+      - text: Author
+        href: about.qmd
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/zhu-fangyuan/
+      - icon: github
+        href: https://github.com/zhufy3
+      
+      
 
 
 format:
   html:
-    code-fold: true
-    code-summary: "Show the code"
-    code-tools: true
-    code-block-bg: true
-    code-block-border-left: "bisque3"
+    #code-fold: true
+    #code-summary: "Show the code"
+    #code-tools: true
+    #code-block-bg: true
+    #code-block-border-left: "bisque3"
     theme: 
       light: flatly
       dark: darkly
