@@ -5,15 +5,28 @@ website:
   title: "PersonalPage"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Work Ex
+        href: profile.qmd
+      - text: Project
+        href: Project.qmd
+      - text: Resume
+        href: Resume.qmd
+
 
 format:
   html:
-    theme: cosmo
+    code-fold: true
+    code-summary: "Show the code"
+    code-tools: true
+    code-block-bg: true
+    code-block-border-left: "bisque3"
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
+    toc-location: left
 
 editor: visual
+
 
