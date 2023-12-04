@@ -1,0 +1,12 @@
+---
+page-layout: full
+---
+
+::: grid
+# Internship
+:::
+
+|                          |                        |
+|--------------------------|------------------------|
+| RED STAR MACALLINE jpg.  | YARA jpg.              |
+| Red Star Macalline Corp. | Yara International ASA |
