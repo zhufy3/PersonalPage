@@ -1,0 +1,6 @@
+---
+title: "ED Outcome Prediction (Machine Learning)"
+image: AHA.png
+---
+
+[Predictive modeling on ED (Emergency Department) outcome.](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)

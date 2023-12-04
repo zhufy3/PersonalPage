@@ -1,0 +1,6 @@
+---
+title: "Regionalisation of Multivariate Water Point Attributes"
+image: wp.png
+---
+
+[Regionalisation of Multivariate Water Point Attributes](https://isss624gaa.netlify.app/take_home_ex2/take_home_ex2).

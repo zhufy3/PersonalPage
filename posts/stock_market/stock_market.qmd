@@ -1,0 +1,8 @@
+---
+title: "Applied Statistical Analysis on Stock Market"
+date: "01-11-2022"
+categories: [R Shiny, ARIMA]
+image: "StockMarket.PNG"
+---
+
+[An R Shiny APP to visualize and predict real-time Yahoo API stock market prices.](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market)

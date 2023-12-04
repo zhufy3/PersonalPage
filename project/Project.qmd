@@ -1,14 +1,11 @@
 ---
 page-layout: full
+title: "Passion Project"
+listing: 
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
 ---
-
-## Passion Project
-
-|                                                                                                                      |                                                                                                                        |
-|------------------------------------|------------------------------------|
-|                                                                                                                      |                                                                                                                        |
-| [ED Outcome Prediction (Machine Learning)](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)    | [Applied Statistical Analysis on Stock Market](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market) |
-|                                                                                                                      |                                                                                                                        |
-| [Reducing Hospital Bed Occupancy Rate](https://github.com/zhufy3/Reducing-Hospital-Bed-Occupancy-Rate)               | [Singapore bi-lateral trade](https://608vaa.netlify.app/take-home_ex4/take-home_ex4)                                   |
-|                                                                                                                      |                                                                                                                        |
-| [Regionalisation of Multivariate Water Point Attributes](https://isss624gaa.netlify.app/take_home_ex2/take_home_ex2) |                                                                                                                        |

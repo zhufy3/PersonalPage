@@ -7,6 +7,20 @@
     "text": "Internship\n\n\n\n\nRED STAR MACALLINE jpg.\nYARA jpg.\n\n\nRed Star Macalline Corp.\nYara International ASA"
   },
   {
+    "objectID": "posts/stock_market/stock_market.html",
+    "href": "posts/stock_market/stock_market.html",
+    "title": "Applied Statistical Analysis on Stock Market",
+    "section": "",
+    "text": "An R Shiny APP to visualize and predict real-time Yahoo API stock market prices."
+  },
+  {
+    "objectID": "posts/boc/boc.html",
+    "href": "posts/boc/boc.html",
+    "title": "Reducing Hospital Bed Occupancy Rate",
+    "section": "",
+    "text": ".Predictive modeling on hospital bed occupancy"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Fang Yuan ZHU",
@@ -14,17 +28,24 @@
     "text": "Hi! I’m Fang Yuan.\n\nEducation"
   },
   {
-    "objectID": "project/Project.html",
-    "href": "project/Project.html",
-    "title": "Fang Yuan Zhu",
+    "objectID": "posts/ED/ed.html",
+    "href": "posts/ED/ed.html",
+    "title": "ED Outcome Prediction (Machine Learning)",
     "section": "",
-    "text": "ED Outcome Prediction (Machine Learning)\nApplied Statistical Analysis on Stock Market\n\n\n\n\n\n\nReducing Hospital Bed Occupancy Rate\nSingapore bi-lateral trade\n\n\n\n\n\n\nRegionalisation of Multivariate Water Point Attributes"
+    "text": "Predictive modeling on ED (Emergency Department) outcome."
   },
   {
-    "objectID": "project/Project.html#passion-project",
-    "href": "project/Project.html#passion-project",
-    "title": "Fang Yuan Zhu",
+    "objectID": "posts/waterpoint/wp.html",
+    "href": "posts/waterpoint/wp.html",
+    "title": "Regionalisation of Multivariate Water Point Attributes",
     "section": "",
-    "text": "ED Outcome Prediction (Machine Learning)\nApplied Statistical Analysis on Stock Market\n\n\n\n\n\n\nReducing Hospital Bed Occupancy Rate\nSingapore bi-lateral trade\n\n\n\n\n\n\nRegionalisation of Multivariate Water Point Attributes"
+    "text": "Regionalisation of Multivariate Water Point Attributes."
+  },
+  {
+    "objectID": "project/Project.html",
+    "href": "project/Project.html",
+    "title": "Passion Project",
+    "section": "",
+    "text": "No matching items"
   }
 ]
