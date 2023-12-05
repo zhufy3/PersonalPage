@@ -1,11 +1,14 @@
 ---
-page-layout: full
+#page-layout: full
 title: "Passion Project"
-listing: 
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: false
-  sort-ui: false
-  filter-ui: false
 ---
+
+::: {#fig-pro layout-ncol="2"}
+[![Yahoo Stock Market Prices Predict](/posts/StockMarket.PNG){width="300"}](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market)
+
+[![ED Outcome Predict](/posts/AHA.png){width="300"}](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)
+
+[![Hospital Bed Occupancy Predict](/posts/boc.PNG){width="300"}](https://github.com/zhufy3/Reducing-Hospital-Bed-Occupancy-Rate)
+
+[![ED Outcome Predict](/posts/wp.png){width="300"}](https://isss624gaa.netlify.app/take_home_ex2/take_home_ex2)
+:::
