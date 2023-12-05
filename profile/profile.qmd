@@ -1,12 +1,10 @@
 ---
 #page-layout: full
+title: "Internships"
 ---
 
-::: grid
-# Internship
-:::
+::: {#fig-pro layout-ncol="2"}
+[![Business Analyst Intern](Yara/Yara.png){width="300"}](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market)
 
-|                          |                        |
-|--------------------------|------------------------|
-| RED STAR MACALLINE jpg.  | YARA jpg.              |
-| Red Star Macalline Corp. | Yara International ASA |
+[![Associate Data Analyst Intern](RedStar/Red%20Star.png){width="300"}](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)
+:::
