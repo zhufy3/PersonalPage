@@ -10,7 +10,7 @@ website:
     #foreground: primary
     left:
       - text: Work Ex
-        href: profile/profile.qmd
+        href: workEX/workEX.qmd
       - text: Project
         href: project/Project.qmd
       - text: Resume
@@ -36,7 +36,7 @@ format:
     theme: 
       light: flatly
       dark: darkly
-    css: styles.css
+    #css: styles.css
     toc: false
     #toc-location: left
 

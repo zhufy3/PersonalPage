@@ -6,6 +6,10 @@ categories: [full-time, part-time]
 #author: "Singapore"
 image: YaraLogo.jpeg
 image-height: "2"
+#format: 
+#  html: 
+#    css: workbk.css
+backgroundcolor: "#E3F0F5"
 ---
 
 ![](intern.gif){width="400"}
