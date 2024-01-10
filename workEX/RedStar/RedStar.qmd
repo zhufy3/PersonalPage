@@ -1,18 +1,18 @@
 ---
 title: "Associate Data Analyst Intern"
-description: "Shanghai Red Star Macalline Enterprise Development Co., Ltd"
-subtitle: "Feb 2020 - Apr 2020"
+subtitle: "Shanghai Red Star Macalline Enterprise Development Co., Ltd"
+description: "Feb 2020 - Apr 2020"
 categories: [full-time]
 image: Red Star.png
 ---
 
 ![](intern.gif){width="400"}
 
-### 💟Team
+💟***Team***
 
 PMO (Project Management Office)
 
-### 🥂Achievements
+🥂***Achievements***
 
 -   Effectively facilitated analysis by maintaining and processing extensive datasets with MS Excel on house-decoration daily sales, providing insightful statistical summaries for senior data analysts.
 
@@ -20,10 +20,10 @@ PMO (Project Management Office)
 
 -   Improved user satisfaction and return rates by 10% through engagement with customers, collecting user feedback and translating it into actionable insights.
 
-### 🛠️Skills
+🛠️***Skills***
 
--   MS Excel, MS PowerPoint
+-   MS Excel, MS PowerPoint.
 
--   Project Management, Data Management
+-   Project Management, Data Management.
 
--   Communication with stakeholders and cross-functional teams
+-   Communication with stakeholders and cross-functional teams.

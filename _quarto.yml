@@ -35,8 +35,8 @@ format:
     #code-block-border-left: "bisque3"
     theme: 
       light: flatly
-      #dark: darkly
-    #css: styles.css
+      dark: darkly
+    css: styles.css
     toc: false
     #toc-location: left
 

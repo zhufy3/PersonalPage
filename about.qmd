@@ -1,7 +1,6 @@
 ---
 title: "Fang Yuan ZHU"
 image: photo.jpg
-Background images: "bk.gif"
 about: 
   template: jolla
   image-width: 20em

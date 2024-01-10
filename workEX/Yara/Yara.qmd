@@ -10,11 +10,11 @@ image-height: "2"
 
 ![](intern.gif){width="400"}
 
-### 💟Team
+💟***Team***
 
 PMO - Digital Transformation
 
-### 🥂Achievements
+🥂***Achievements***
 
 -   Achieved a cost-saving of 400k SGD annually by spearheading the development of an in-house OKR tracker PowerApp Application, eliminating the need for external software.
 
@@ -22,10 +22,12 @@ PMO - Digital Transformation
 
 -    Created comprehensive product user manuals and supported training sessions for international colleagues, ensuring a smooth adaptation and understanding of the PowerApp application and PowerBI dashboard.
 
-### 🛠️Skills
+🛠️***Skills***
 
--   OKR, KPI, Software Development, Project Management, Digital Transformation
+-   Data Management, Rational Data Base Management, SQL.
 
--   PowerApp, PowerBI, Confluence, SharePoint, Jira, MS Excel, Miro
+-   OKR, KPI, Software Development, Project Management, Digital Transformation.
 
--   Coordination and communication with cross-functional teams, Presentation, Writing, User Training
+-   PowerApp, PowerBI, Confluence, SharePoint, Jira, MS Excel, Miro.
+
+-   Coordination and communication with cross-functional teams, Presentation, Writing, User Training.
