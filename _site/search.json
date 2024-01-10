@@ -4,7 +4,7 @@
     "href": "profile/profile.html",
     "title": "Internships",
     "section": "",
-    "text": "Business Analyst Intern\n\n\n\n\n\nAssociate Data Analyst Intern\n\n\n\nFigure 1: ?(caption)"
+    "text": "Business Analyst Intern\n\n\n\nFigure 1:"
   },
   {
     "objectID": "posts/stock_market/stock_market.html",
@@ -25,7 +25,7 @@
     "href": "about.html",
     "title": "Fang Yuan ZHU",
     "section": "",
-    "text": "Hi! I’m Fang Yuan.\n\nEducation\n\n\n\n\n\n\nBusiness Analyst Intern\n\n\n\n\n\nAssociate Data Analyst Intern\n\n\n\nFigure 1: ?(caption)"
+    "text": "Hi! I’m Fang Yuan.\n\nEducation\n\n\n\n\n\nBachelor’s Degree | Statistics\n\n\n\n\n\nMaster’s Degree | IT in Business (Analytics Track)"
   },
   {
     "objectID": "posts/ED/ed.html",
@@ -46,6 +46,48 @@
     "href": "project/Project.html",
     "title": "Passion Project",
     "section": "",
-    "text": "Yahoo Stock Market Prices Predict\n\n\n\n\n\nED Outcome Predict\n\n\n\n\n\n\n\nHospital Bed Occupancy Predict\n\n\n\n\n\nGeometric Water Point Analysis in Nigeria\n\n\n\nFigure 1: ?(caption)"
+    "text": "Yahoo Stock Market Prices Predict\n\n\n\n\n\nED Outcome Predict\n\n\n\n\n\n\n\nHospital Bed Occupancy Predict\n\n\n\n\n\nGeometric Water Point Analysis in Nigeria"
+  },
+  {
+    "objectID": "workEX/workEX.html",
+    "href": "workEX/workEX.html",
+    "title": "Fang Yuan Zhu",
+    "section": "",
+    "text": "Business Analyst Intern\n\n\nYara International ASA\n\n\n\n\nfull-time\n\n\npart-time\n\n\n\n\nJan 2023 - Sep 2023\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nAssociate Data Analyst Intern\n\n\nFeb 2020 - Apr 2020\n\n\n\n\nfull-time\n\n\n\n\nShanghai Red Star Macalline Enterprise Development Co., Ltd\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "workEX/Yara/Yara.html",
+    "href": "workEX/Yara/Yara.html",
+    "title": "Business Analyst Intern",
+    "section": "",
+    "text": "💟Team\nPMO - Digital Transformation\n\n\n🥂Achievements\n\nAchieved a cost-saving of 400k SGD annually by spearheading the development of an in-house OKR tracker PowerApp Application, eliminating the need for external software.\nImproved operational efficiency by over 70% through the creation of a PowerBI dashboard that tailor-fits the relational databases, allowing instant viewing of OKR records by employee reporting layers, providing valuable insights from statistical metrics.\nCreated comprehensive product user manuals and supported training sessions for international colleagues, ensuring a smooth adaptation and understanding of the PowerApp application and PowerBI dashboard.\n\n\n\n🛠️Skills\n\nOKR, KPI, Software Development, Project Management, Digital Transformation\nPowerApp, PowerBI, Confluence, SharePoint, Jira, MS Excel, Miro\nCoordination and communication with cross-functional teams, Presentation, Writing, User Training"
+  },
+  {
+    "objectID": "workEX/Yara/Yara.html#team",
+    "href": "workEX/Yara/Yara.html#team",
+    "title": "Business Analyst Intern",
+    "section": "💟Team",
+    "text": "💟Team\nPMO - Digital Transformation"
+  },
+  {
+    "objectID": "workEX/Yara/Yara.html#achievements",
+    "href": "workEX/Yara/Yara.html#achievements",
+    "title": "Business Analyst Intern",
+    "section": "🥂Achievements",
+    "text": "🥂Achievements\n\nAchieved a cost-saving of 400k SGD annually by spearheading the development of an in-house OKR tracker PowerApp Application, eliminating the need for external software.\nImproved operational efficiency by over 70% through the creation of a PowerBI dashboard that tailor-fits the relational databases, allowing instant viewing of OKR records by employee reporting layers, providing valuable insights from statistical metrics.\nCreated comprehensive product user manuals and supported training sessions for international colleagues, ensuring a smooth adaptation and understanding of the PowerApp application and PowerBI dashboard."
+  },
+  {
+    "objectID": "workEX/Yara/Yara.html#skills",
+    "href": "workEX/Yara/Yara.html#skills",
+    "title": "Business Analyst Intern",
+    "section": "🛠️Skills",
+    "text": "🛠️Skills\n\nOKR, KPI, Software Development, Project Management, Digital Transformation\nPowerApp, PowerBI, Confluence, SharePoint, Jira, Excel, Miro\nCoordination and communication with cross-functional teams, Presentation, Writing, User Training"
+  },
+  {
+    "objectID": "workEX/RedStar/RedStar.html",
+    "href": "workEX/RedStar/RedStar.html",
+    "title": "Associate Data Analyst Intern",
+    "section": "",
+    "text": "💟Team\nPMO (Project Management Office)\n\n\n🥂Achievements\n\nEffectively facilitated analysis by maintaining and processing extensive datasets with MS Excel on house-decoration daily sales, providing insightful statistical summaries for senior data analysts.\nEnhanced customer mapping precision by 30% through the strategic clustering of customers based on variables like locations and response rates.\nImproved user satisfaction and return rates by 10% through engagement with customers, collecting user feedback and translating it into actionable insights.\n\n\n\n🛠️Skills\n\nMS Excel, MS PowerPoint\nProject Management, Data Management\nCommunication with stakeholders and cross-functional teams"
   }
 ]

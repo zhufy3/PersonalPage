@@ -7,7 +7,7 @@ website:
   navbar:
     pinned: true
     #background: success
-    foreground: primary
+    #foreground: primary
     left:
       - text: Work Ex
         href: profile/profile.qmd
@@ -35,10 +35,11 @@ format:
     #code-block-border-left: "bisque3"
     theme: 
       light: flatly
-      dark: darkly
-    css: styles.css
-    toc: true
-    toc-location: left
+      #dark: darkly
+    #css: styles.css
+    toc: false
+    #toc-location: left
+
 
 editor: visual
 

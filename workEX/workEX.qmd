@@ -1,0 +1,15 @@
+---
+title: " "
+margin-top: "30"
+listing: 
+  contents: 
+    - "Yara.qmd"
+    - "RedStar.qmd"
+  type: default
+  categories: true
+
+#  fields: [image, title,subtitle,description]
+  image-align: right
+  sort: false
+---
+

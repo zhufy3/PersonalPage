@@ -1,6 +1,7 @@
 ---
 title: "Fang Yuan ZHU"
 image: photo.jpg
+Background images: "bk.gif"
 about: 
   template: jolla
   image-width: 20em
@@ -21,8 +22,8 @@ Hi! I'm Fang Yuan.
 
 # Education {pos="left"}
 
-::: {#fig-pro layout-ncol="2"}
-[![Business Analyst Intern](profile/Yara/intern.gif){width="300"}](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market)
+::: {layout-ncol="3"}
+[![Bachelor's Degree \| Statistics](SWUFE.png)](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market)
 
-[![Associate Data Analyst Intern](profile/RedStar/wfh.gif){width="300"}](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)
+[![Master's Degree \| IT in Business (Analytics Track)](SCIS.webp)](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)
 :::

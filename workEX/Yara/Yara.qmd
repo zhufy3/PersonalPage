@@ -1,0 +1,31 @@
+---
+title: "Business Analyst Intern"
+subtitle: "Yara International ASA"
+description: "Jan 2023 - Sep 2023"
+categories: [full-time, part-time]
+#author: "Singapore"
+image: YaraLogo.jpeg
+image-height: "2"
+---
+
+![](intern.gif){width="400"}
+
+### 💟Team
+
+PMO - Digital Transformation
+
+### 🥂Achievements
+
+-   Achieved a cost-saving of 400k SGD annually by spearheading the development of an in-house OKR tracker PowerApp Application, eliminating the need for external software.
+
+-   Improved operational efficiency by over 70% through the creation of a PowerBI dashboard that tailor-fits the relational databases, allowing instant viewing of OKR records by employee reporting layers, providing valuable insights from statistical metrics.
+
+-    Created comprehensive product user manuals and supported training sessions for international colleagues, ensuring a smooth adaptation and understanding of the PowerApp application and PowerBI dashboard.
+
+### 🛠️Skills
+
+-   OKR, KPI, Software Development, Project Management, Digital Transformation
+
+-   PowerApp, PowerBI, Confluence, SharePoint, Jira, MS Excel, Miro
+
+-   Coordination and communication with cross-functional teams, Presentation, Writing, User Training
