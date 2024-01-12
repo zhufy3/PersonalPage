@@ -1,6 +1,8 @@
 ---
 #page-layout: full
 title: "Passion Project"
+backgroundcolor: "#f5f2e3"
+
 ---
 
 ::: {layout-ncol="2"}

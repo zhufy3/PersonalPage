@@ -1,15 +1,12 @@
 ---
-title: " "
-margin-top: "30"
+#title: "Internships"
 listing: 
   contents: 
     - "Yara.qmd"
     - "RedStar.qmd"
   type: default
-  categories: true
-
 #  fields: [image, title,subtitle,description]
   image-align: right
   sort: false
+backgroundcolor: "#f5f2e3"
 ---
-

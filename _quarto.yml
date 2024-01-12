@@ -13,6 +13,8 @@ website:
         href: workEX/workEX.qmd
       - text: Project
         href: project/Project.qmd
+      - text: Education
+        href: Education/Education.qmd
       - text: Resume
         href: resume/Resume.qmd
       - text: Author

@@ -4,19 +4,19 @@ subtitle: "Shanghai Red Star Macalline Enterprise Development Co., Ltd"
 description: "Feb 2020 - Apr 2020"
 categories: [full-time]
 image: Red Star.png
-backgroundcolor: "#E3F0F5"
+backgroundcolor: "#f5f2e3"
 #format: 
 #  html: 
 #    css: workbk.css
 ---
 
-![](intern.gif){width="400"}
+![](intern.gif){fig-align="center" width="400"}
 
-💟***Team***
+#### 💟***Team***
 
 PMO (Project Management Office)
 
-🥂***Achievements***
+#### 🥂***Achievements***
 
 -   Effectively facilitated analysis by maintaining and processing extensive datasets with MS Excel on house-decoration daily sales, providing insightful statistical summaries for senior data analysts.
 
@@ -24,7 +24,7 @@ PMO (Project Management Office)
 
 -   Improved user satisfaction and return rates by 10% through engagement with customers, collecting user feedback and translating it into actionable insights.
 
-🛠️***Skills***
+#### 🛠️***Skills***
 
 -   MS Excel, MS PowerPoint.
 

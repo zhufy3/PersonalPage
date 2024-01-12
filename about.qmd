@@ -20,12 +20,18 @@ format:
     css: styles.css
 ---
 
-Hi! I'm Fang Yuan.
+Hi! .
 
-# Education {pos="left"}
 
-::: {layout-ncol="3"}
-[![Bachelor's Degree \| Statistics](SWUFE.png)](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market)
 
-[![Master's Degree \| IT in Business (Analytics Track)](SCIS.webp)](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)
+![](workEX/Tiantian%20Xu.gif){fig-align="center" width="400"}
+
+::: {.callout-note icon=false}
+
+## About Me
+
+Using callouts is an effective way to highlight content that your reader give special consideration or attention.
+
 :::
+
+

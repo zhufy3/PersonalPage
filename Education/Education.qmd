@@ -1,0 +1,31 @@
+---
+title: "Education"
+---
+
+
+::: {content}
+:::
+
+::: {layout-ncol="3" layout-valign="bottom"}
+[![Bachelor\'s Degree \| Statistics](SWUFE.png)](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market)
+
+![Certificate of Fashion Design](BIFT.jpeg)
+
+[![Master\'s Degree \| IT in Business (Analytics Track)](SMU.jpg)](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)
+:::
+
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+![](SMU.jpg)
+
+Some text that should be laid out below the code
+:::
+
+::: {#second-column}
+![](SMU.jpg)
+:::
+
+::: {#third-column}
+![](SMU.jpg)
+:::
+:::

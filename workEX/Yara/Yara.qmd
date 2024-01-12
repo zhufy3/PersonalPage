@@ -9,24 +9,24 @@ image-height: "2"
 #format: 
 #  html: 
 #    css: workbk.css
-backgroundcolor: "#E3F0F5"
+backgroundcolor: "#f5f2e3"
 ---
 
-![](intern.gif){width="400"}
+![](intern.gif){fig-align="center" width="400"}
 
-💟***Team***
+#### 💟***Team***
 
 PMO - Digital Transformation
 
-🥂***Achievements***
+#### 🥂***Achievements***
 
 -   Achieved a cost-saving of 400k SGD annually by spearheading the development of an in-house OKR tracker PowerApp Application, eliminating the need for external software.
 
 -   Improved operational efficiency by over 70% through the creation of a PowerBI dashboard that tailor-fits the relational databases, allowing instant viewing of OKR records by employee reporting layers, providing valuable insights from statistical metrics.
 
--    Created comprehensive product user manuals and supported training sessions for international colleagues, ensuring a smooth adaptation and understanding of the PowerApp application and PowerBI dashboard.
+-   Created comprehensive product user manuals and supported training sessions for international colleagues, ensuring a smooth adaptation and understanding of the PowerApp application and PowerBI dashboard.
 
-🛠️***Skills***
+#### 🛠️***Skills***
 
 -   Data Management, Rational Data Base Management, SQL.
 
