@@ -26,7 +26,7 @@ Hi! .
 
 ![](workEX/Tiantian%20Xu.gif){fig-align="center" width="400"}
 
-::: {.callout-note icon=false}
+::: {.callout-note icon=false callout="left"}
 
 ## About Me
 
