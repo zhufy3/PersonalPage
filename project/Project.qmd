@@ -1,6 +1,15 @@
 ---
-#page-layout: full
-title: "Passion Project"
+#title: "Internships"
+listing: 
+  contents: 
+    - website:
+      site-url: "https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market"
+    - website:
+      site-url: "https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market"
+  type: default
+#  fields: [image, title,subtitle,description]
+  image-align: right
+  sort: false
 backgroundcolor: "#f5f2e3"
 
 ---

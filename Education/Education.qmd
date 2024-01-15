@@ -1,31 +1,18 @@
 ---
 title: "Education"
+backgroundcolor: "#f5f2e3"
 ---
 
+![](bk.gif){fig-align="center" width="267"}
 
-::: {content}
+"Embracing Diverse Education"
+
+ 
+
+::: {layout-ncol="2" layout-valign="bottom" caption-pos="center"}
+[![Bachelor's Degree \| Statistics (2016-2020)](SWUFE.png)](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market)
+
+[![Master's Degree \| IT in Business (Analytics Track) (2022-2023)](SMU.jpg){width="793"}](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)
 :::
 
-::: {layout-ncol="3" layout-valign="bottom"}
-[![Bachelor\'s Degree \| Statistics](SWUFE.png)](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market)
-
-![Certificate of Fashion Design](BIFT.jpeg)
-
-[![Master\'s Degree \| IT in Business (Analytics Track)](SMU.jpg)](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)
-:::
-
-::: {layout="[ 40, 60 ]"}
-::: {#first-column}
-![](SMU.jpg)
-
-Some text that should be laid out below the code
-:::
-
-::: {#second-column}
-![](SMU.jpg)
-:::
-
-::: {#third-column}
-![](SMU.jpg)
-:::
-:::
+![Certificate of Fashion Design (2020-2021)](BIFT.jpeg){caption="center" fig-align="center"}

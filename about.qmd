@@ -20,18 +20,22 @@ format:
     css: styles.css
 ---
 
-Hi! .
+Hi! Welcome to my ZONE💜!
 
+ 
 
+ 
 
 ![](workEX/Tiantian%20Xu.gif){fig-align="center" width="400"}
 
-::: {.callout-note icon=false callout="left"}
+ 
 
-## About Me
+::: {.callout-note font-align="left" appearance="simple" icon="false"}
+# Intro
 
-Using callouts is an effective way to highlight content that your reader give special consideration or attention.
+This is Fang Yuan from China! A Fresh Postgrad with intensive Enthusiasm to apply Statistics and AI to businesses and societies. I love to embrace fresh things and infuse myself into new environments. I am armed with both structured and detail-oriented thinking, which are well proved in my past interning experiences.
 
+Plus, I spent more than 1 year to study Fashion Design!👀
+
+Contact me if you feel I am interesting or want to discuss any topics you are interested in through buttons below 👇!
 :::
-
-

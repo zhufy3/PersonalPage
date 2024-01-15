@@ -1,0 +1,7 @@
+/* css styles */
+body {
+  background-image: url('bk.gif');
+  background-size: cover;  /* Adjust as needed */
+  background-repeat: no-repeat;
+  background-attachment: fixed;  /* Fixed or scroll, depending on your preference */
+}
