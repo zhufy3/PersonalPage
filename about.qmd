@@ -15,22 +15,19 @@ about:
     - icon: envelope
       text: Contact me
       href: fyzhu.2022@mitb.smu.edu.sg
-format: 
-  html: 
-    css: styles.css
+backgroundcolor: "#b5add4"
+#format: 
+#  html: 
+#    css: styles.css
 ---
+
+------------------------------------------------------------------------
 
 Hi! Welcome to my ZONE💜!
 
- 
+![](bk4.gif){fig-align="center" width="500"}
 
- 
-
-![](workEX/Tiantian%20Xu.gif){fig-align="center" width="400"}
-
- 
-
-::: {.callout-note font-align="left" appearance="simple" icon="false"}
+::: {.callout-note text-align="left" backgroundcolor="white" appearance="simple" icon="false"}
 # Intro
 
 This is Fang Yuan from China! A Fresh Postgrad with intensive Enthusiasm to apply Statistics and AI to businesses and societies. I love to embrace fresh things and infuse myself into new environments. I am armed with both structured and detail-oriented thinking, which are well proved in my past interning experiences.

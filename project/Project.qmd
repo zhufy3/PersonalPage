@@ -7,18 +7,28 @@ backgroundcolor: "#dcdcec"
 
 "Passion is the best teacher..."
 
-&nbsp;
+ 
 
 # Passion Projects
 
 ------------------------------------------------------------------------
 
-::: {layout-ncol="2" layout-valign="bottom" caption-pos="centre"}
+::: {layout="[1,1]" layout-valign="bottom" text-align="center"}
 [![Yahoo Stock Market Prices Predict](/posts/StockMarket.PNG){width="300"}](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market)
 
-[![ED Outcome Predict](/posts/ED/AHA.png){width="300"}](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)
+[![ED Outcome Predict](/posts/ED/AHA.png){width="300" height="195"}](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)
+:::
 
-[![Hospital Bed Occupancy Predict](/posts/boc/boc.jpg){width="300"}](https://github.com/zhufy3/Reducing-Hospital-Bed-Occupancy-Rate)
+------------------------------------------------------------------------
 
-[![Geometric Water Point Analysis in Nigeria](/posts/waterpoint/wp.jpg){width="300"}](https://isss624gaa.netlify.app/take_home_ex2/take_home_ex2)
+::: {layout="[1,1]" layout-valign="bottom" text-align="center"}
+[![Hospital Bed Occupancy Predict](Doctor's%20office.gif){width="300" height="195"}](https://github.com/zhufy3/Reducing-Hospital-Bed-Occupancy-Rate)
+
+[![Geometric Water Point Analysis in Nigeria](/posts/waterpoint/wp.jpg){width="300" height="195"}](https://isss624gaa.netlify.app/take_home_ex2/take_home_ex2)
+:::
+
+------------------------------------------------------------------------
+
+::: {layout="[1,1]" layout-valign="bottom" text-align="center"}
+[![Tableau Public Page](tableau_map.PNG){width="300" height="195"}](https://public.tableau.com/app/profile/fangyuan.zhu/vizzes)
 :::

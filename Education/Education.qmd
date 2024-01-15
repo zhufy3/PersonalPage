@@ -14,9 +14,9 @@ backgroundcolor: "#dcdcec"
 ------------------------------------------------------------------------
 
 ::: {layout="[[1,1],[1]]" layout-valign="bottom" caption-pos="center"}
-[![Bachelor's Degree \| Statistics (2016-2020)](SWUFE.png){fig-align="left"}](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market)
+![Bachelor's Degree \| Statistics (2016-2020)](SWUFE.png){fig-align="left"}
 
-[![Master's Degree \| IT in Business (Analytics Track) (2022-2023)](SMU.jpg){fig-align="right" width="550" height="193"}](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)
+![Master's Degree \| IT in Business (Analytics Track) (2022-2023)](SMU.jpg){fig-align="right" width="550" height="193"}
 
 ![Certificate of Fashion Design (2020-2021)](BIFT.jpeg){width="222"}
 :::

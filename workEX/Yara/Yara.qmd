@@ -9,7 +9,7 @@ image-height: "2"
 #format: 
 #  html: 
 #    css: workbk.css
-backgroundcolor: "#f5f2e3"
+backgroundcolor: "#dcdcec"
 ---
 
 ![](intern.gif){fig-align="center" width="400"}
