@@ -8,5 +8,17 @@ listing:
 #  fields: [image, title,subtitle,description]
   image-align: right
   sort: false
-backgroundcolor: "#f5f2e3"
+backgroundcolor: "#dcdcec"
 ---
+
+![](Robin%20Davey.gif){fig-align="center" width="300"}
+
+"Passion is the best teacher..."
+
+&nbsp; &nbsp;
+
+# Passion Projects
+
+------------------------------------------------------------------------
+
+&nbsp;
