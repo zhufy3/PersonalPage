@@ -1,20 +1,19 @@
 ---
 #title: "Internships"
-listing: 
-  contents: 
-    - website:
-      site-url: "https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market"
-    - website:
-      site-url: "https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market"
-  type: default
-#  fields: [image, title,subtitle,description]
-  image-align: right
-  sort: false
-backgroundcolor: "#f5f2e3"
-
+backgroundcolor: "#dcdcec"
 ---
 
-::: {layout-ncol="2"}
+![](Need%20a%20lift%20.gif){fig-align="center" width="400"}
+
+"Passion is the best teacher..."
+
+&nbsp;
+
+# Passion Projects
+
+------------------------------------------------------------------------
+
+::: {layout-ncol="2" layout-valign="bottom" caption-pos="centre"}
 [![Yahoo Stock Market Prices Predict](/posts/StockMarket.PNG){width="300"}](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market)
 
 [![ED Outcome Predict](/posts/ED/AHA.png){width="300"}](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)
