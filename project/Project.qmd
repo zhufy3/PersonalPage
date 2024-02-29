@@ -13,22 +13,22 @@ backgroundcolor: "#dcdcec"
 
 ------------------------------------------------------------------------
 
-::: {layout="[1,1]" layout-valign="bottom" text-align="center"}
-[![Yahoo Stock Market Prices Predict](/posts/StockMarket.PNG){width="300"}](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market)
+::: {layout="[[40,-20,40]]" layout-valign="top" text-align="right"}
+[![Hospital Bed Occupancy Predict](Doctor's%20office.gif){fig-align="left" width="300" height="195"}](https://github.com/zhufy3/Reducing-Hospital-Bed-Occupancy-Rate)
 
-[![ED Outcome Predict](/posts/ED/AHA.png){width="300" height="195"}](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)
+[![Geometric Water Point Analysis in Nigeria](wp1.jpeg){fig-align="left" width="300"}](https://isss624gaa.netlify.app/take_home_ex2/take_home_ex2)
 :::
 
 ------------------------------------------------------------------------
 
-::: {layout="[1,1]" layout-valign="bottom" text-align="center"}
-[![Hospital Bed Occupancy Predict](Doctor's%20office.gif){width="300" height="195"}](https://github.com/zhufy3/Reducing-Hospital-Bed-Occupancy-Rate)
+::: {layout="[[40,-20,40]]" layout-valign="top" text-align="center"}
+[![Stock Market Prices Predict (R Shiny App)](/posts/StockMarket.PNG){fig-align="left" width="300"}](https://github.com/zhufy3/Applied-Statistical-Analysis-on-Stock-Market)
 
-[![Geometric Water Point Analysis in Nigeria](/posts/waterpoint/wp.jpg){width="300" height="195"}](https://isss624gaa.netlify.app/take_home_ex2/take_home_ex2)
+[![ED Outcome Predict](/posts/ED/AHA.png){fig-align="left" width="300" height="195"}](https://github.com/zhufy3/ED-Outcome-Prediction-with-Machine-Learning)
 :::
 
 ------------------------------------------------------------------------
 
-::: {layout="[1,1]" layout-valign="bottom" text-align="center"}
-[![Tableau Public Page](tableau_map.PNG){width="300" height="195"}](https://public.tableau.com/app/profile/fangyuan.zhu/vizzes)
+::: {layout="[[1]]" layout-valign="top" text-align="center"}
+[![Tableau Personal Page](tableau_map.PNG){fig-align="left" width="300"}](https://public.tableau.com/app/profile/fangyuan.zhu/vizzes)
 :::
