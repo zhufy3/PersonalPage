@@ -5,7 +5,7 @@ backgroundcolor: "#dcdcec"
 
 ![](Busy%20Bee.gif){fig-align="center" width="400"}
 
-"Embracing Diverse Education..."
+"Embracing Diversity in Education..."
 
  
 
@@ -13,7 +13,7 @@ backgroundcolor: "#dcdcec"
 
 ------------------------------------------------------------------------
 
-::: {.panel-tabset}
+::: panel-tabset
 ## Degree
 
 ::: {layout="[1,1]" layout-valign="top" text-align="center"}
@@ -23,6 +23,13 @@ backgroundcolor: "#dcdcec"
 :::
 
 ## Certificate
+::: {layout="[[1,1,1,1]]" layout-valign="top" text-align="center"}
+![Certificate of Fashion Design (2021)](BIFT.jpeg){fig-align="left" width="198"}
 
-![Certificate of Fashion Design (2020-2021)](BIFT.jpeg){fig-align="left" width="198"}
+![Introduction to Blockchain Technologies, INSEAD (2023)](/Cert/INSEAD.jpeg)
+
+![The Complete SQL Bootcamp, Udemy (2023)](/Cert/Udemy.jpeg)
+
+![SIGMA Global Virtual Course: Digital Transformation, WU (2023)](/Cert/WU.jpg)
+:::
 :::
