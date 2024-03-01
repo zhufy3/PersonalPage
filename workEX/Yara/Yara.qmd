@@ -2,12 +2,14 @@
 title: "Business Analyst Intern"
 subtitle: "Yara International ASA"
 description: "Jan 2023 - Sep 2023"
-categories: [full-time, part-time]
+categories: [full-time]
 #author: "Singapore"
 image: YaraLogo.jpeg
 image-height: "2"
-#format: 
-#  html: 
+format: 
+  html: 
+    mainfont: cursive
+  
 #    css: workbk.css
 backgroundcolor: "#dcdcec"
 ---

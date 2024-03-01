@@ -9,16 +9,19 @@ listing:
   image-align: right
   sort: false
 backgroundcolor: "#dcdcec"
+format: 
+  html: 
+    mainfont: cursive
 ---
 
 ![](Robin%20Davey.gif){fig-align="center" width="300"}
 
-"Work harder, play harder..."
+["Work harder, play harder..."]{style="font-family: cursive"}
 
-&nbsp; &nbsp;
+   
 
 # Work Experiences
 
 ------------------------------------------------------------------------
 
-&nbsp;
+ 

@@ -1,11 +1,14 @@
 ---
 #title: "Education"
 backgroundcolor: "#dcdcec"
+format: 
+  html: 
+    mainfont: cursive
 ---
 
 ![](Busy%20Bee.gif){fig-align="center" width="400"}
 
-"Embracing Diversity in Education..."
+["Embracing Diversity in Education..."]{style="font-family: cursive"}
 
  
 
@@ -17,18 +20,19 @@ backgroundcolor: "#dcdcec"
 ## Degree
 
 ::: {layout="[1,1]" layout-valign="top" text-align="center"}
-![Bachelor's Degree \| Statistics (2016-2020)](SWUFE.png){fig-align="left" width="235"}
+[![Bachelor's Degree \| Statistics (2016-2020)](SWUFE.png){fig-align="left" width="235"}](https://www.linkedin.com/in/zhu-fangyuan/details/education/1709322887185/single-media-viewer/?profileId=ACoAAD7_514BSyOweZ3Rnd7M0z-xKM3pQ91B6hg)
 
-![Master's Degree \| IT in Business (Analytics Track) (2022-2023)](SMU.jpg){fig-align="left" width="550" height="170"}
+[![Master's Degree \| IT in Business (Analytics Track) (2022-2023)](SMU.jpg){fig-align="left" width="550" height="170"}](https://www.linkedin.com/in/zhu-fangyuan/details/education/1709322704971/single-media-viewer/?profileId=ACoAAD7_514BSyOweZ3Rnd7M0z-xKM3pQ91B6hg)
 :::
 
 ## Certificate
+
 ::: {layout="[[1,1,1,1]]" layout-valign="top" text-align="center"}
 ![Certificate of Fashion Design (2021)](BIFT.jpeg){fig-align="left" width="198"}
 
-![Introduction to Blockchain Technologies, INSEAD (2023)](/Cert/INSEAD.jpeg)
+[![Introduction to Blockchain Technologies, INSEAD (2023)](/Cert/INSEAD.jpeg)](https://www.coursera.org/account/accomplishments/verify/ABZDVSVFDP8J)
 
-![The Complete SQL Bootcamp, Udemy (2023)](/Cert/Udemy.jpeg)
+[![The Complete SQL Bootcamp, Udemy (2023)](/Cert/Udemy.jpeg)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-016a9b5b-8e37-4ca6-8c7f-e9044117c0ae.pdf)
 
 ![SIGMA Global Virtual Course: Digital Transformation, WU (2023)](/Cert/WU.jpg)
 :::

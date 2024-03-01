@@ -5,6 +5,9 @@ description: "Feb 2020 - Apr 2020"
 categories: [full-time]
 image: Red Star.png
 backgroundcolor: "#dcdcec"
+format: 
+  html: 
+    mainfont: cursive
 #format: 
 #  html: 
 #    css: workbk.css

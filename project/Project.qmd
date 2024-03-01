@@ -1,11 +1,15 @@
 ---
 #title: "Internships"
 backgroundcolor: "#dcdcec"
+format: 
+  html: 
+    mainfont: cursive
+
 ---
 
 ![](Need%20a%20lift%20.gif){fig-align="center" width="400"}
 
-"Passion is the best teacher..."
+["Passion is the best teacher..."]{style="font-family: cursive"}
 
  
 

@@ -16,20 +16,22 @@ about:
       text: Contact me
       href: fyzhu.2022@mitb.smu.edu.sg
 backgroundcolor: "#b5add4"
+fontfamily: "cursive"
 format: 
   html: 
+    mainfont: cursive 
     css: styles.css
 ---
 
 ------------------------------------------------------------------------
 
-Hi! Welcome to my ZONE💜!
+[Hi! Welcome to my ZONE💜!]{style="font-family:cursive"}
 
 ![](bk4.gif){fig-align="center" width="500"}
 
-# Intro
+# [Intro]{style="background-color:#6bbcc7"}
 
-::: {.callout-note text-align="left" backgroundcolor="white" appearance="simple" icon="false"}
+::: {.callout-note text-align=left background-color=white appearance=simple icon=false}
 Greetings! I'm Fang Yuan, hailing from China—a recent postgraduate brimming with enthusiasm to leverage the power of Statistics and AI in shaping innovative solutions for businesses and societies. I thrive on embracing new challenges and immersing myself in diverse environments. My approach is characterized by a blend of structured thinking and meticulous attention to detail, qualities that have been reinforced through my past internships.
 
 Interestingly, I also dedicated over a year to exploring the realm of Fashion Design!👀
