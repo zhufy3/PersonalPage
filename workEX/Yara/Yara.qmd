@@ -30,8 +30,8 @@ PMO - Digital Transformation
 
 #### 🛠️***Skills***
 
--   Hard skills: OKR, KPI, RDBMS, SQL, Statistical Analysis, PowerApp, PowerBI, Software Development.
+-   Hard skills: RDBMS (Relational Database Management Systems), SQL (Structured Query Language), Statistical Analysis, PowerApp, PowerBI, Software Development, Project Management.
 
--   Soft skills: Project Management, Digital Transformation, Coordination and communication with international cross-functional teams, Presentation, Documentation, Reporting, Technical Writing, User Training.
+-   Soft skills: OKR, KPI, Digital Transformation, Presentation, Documentation, Reporting, Technical Writing, Coordination and communication with international cross-functional teams, User Training.
 
 -   Work tools: Confluence, MS SharePoint, Jira, MS Excel, Miro.
