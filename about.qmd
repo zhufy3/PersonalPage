@@ -15,7 +15,7 @@ about:
     - icon: envelope
       text: Contact me
       href: fyzhu.2022@mitb.smu.edu.sg
-backgroundcolor: "#b5add4"
+backgroundcolor: "#b3abd3"
 fontfamily: "cursive"
 format: 
   html: 
