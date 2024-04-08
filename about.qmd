@@ -32,9 +32,11 @@ format:
 # [Intro]{style="background-color:#6bbcc7"}
 
 ::: {.callout-note text-align="left" background-color="white" appearance="simple" icon="false"}
-Greetings! I'm Fang Yuan, from China---a recent postgraduate brimming with enthusiasm to leverage the power of Statistics and AI in shaping innovative solutions for businesses and societies. I thrive on embracing new challenges and immersing myself in diverse environments. My approach is characterized by a blend of structured thinking and meticulous attention to detail, qualities that have been reinforced through my past internships.
+Greetings! This is Fiona from China---a recent postgraduate who's enthusiastic about Statistics and AI in shaping innovative solutions for businesses and societies. 
 
-Interestingly, I also dedicated over a year to exploring the realm of Fashion Design!👀
+Immersing myself in Data Science field, I am characterized by a blend of structured thinking and meticulous attention to quality, efficiency, and sustainability. 
+
+Probably to your surprise, I also dedicated over a year to exploring the realm of Fashion Design!👀
 
 Feel free to reach out if you find my background intriguing or if you'd like to delve into any topics of mutual interest using the buttons provided below 👇!
 :::
